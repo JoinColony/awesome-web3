@@ -13,7 +13,8 @@ THIS IS A WORK IN PROGRESS - IF YOU WANT TO RENAME, REMOVE OR ADD CATEGORIES, PL
 
 ### Web3 libraries
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
-
+  * [embark-framework](https://github.com/iurimatias/embark-framework)
+  
 ### IPFS libraries
   * [orbit-db](https://github.com/orbitdb/orbit-db)
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
