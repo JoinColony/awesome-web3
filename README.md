@@ -14,7 +14,6 @@
   * [embark-framework](https://github.com/iurimatias/embark-framework)
 
 ### IPFS libraries
-  * [orbit-db](https://github.com/orbitdb/orbit-db)
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
 
 ### Replicated data types for distributed systems
@@ -22,6 +21,11 @@
   * [y.js](https://github.com/y-js/yjs)
   * [y.js ipfs connector](https://github.com/ipfs-shipyard/y-ipfs-connector)
   * [swarm.js](https://github.com/gritzko/swarm)
+  
+### Distributed databases
+  * [orbit-db](https://github.com/orbitdb/orbit-db)
+  * [pouchDB](https://pouchdb.com)
+  * [gun](http://gun.js.org)
 
 ### Helpful browser APIs (and wrapper libraries)
   * [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
@@ -39,4 +43,4 @@
   * [Infura](https://infura.io)
 
 ## How to contribute
- Just file an issue or directly add a PR with your helpful links :)
+Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
