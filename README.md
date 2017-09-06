@@ -26,6 +26,9 @@
   * [orbit-db](https://github.com/orbitdb/orbit-db)
   * [pouchDB](https://pouchdb.com)
   * [gun](http://gun.js.org)
+  * [BigchainDB](https://www.bigchaindb.com)
+  * [Bluzelle](https://bluzelle.com/)
+  * [Fluence](http://fluence.ai/)
 
 ### Helpful browser APIs (and wrapper libraries)
   * [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
