@@ -25,6 +25,7 @@
 ### Distributed databases
   * [orbit-db](https://github.com/orbitdb/orbit-db)
   * [pouchDB](https://pouchdb.com)
+  * [RxDB](https://github.com/pubkey/rxdb)
   * [gun](http://gun.js.org)
   * [BigchainDB](https://www.bigchaindb.com)
   * [Bluzelle](https://bluzelle.com/)
