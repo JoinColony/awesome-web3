@@ -15,6 +15,7 @@
 
 ### IPFS libraries
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
+  * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner)
 
 ### Replicated data types for distributed systems
   * [ipfs-log](https://github.com/haadcode/ipfs-log)
