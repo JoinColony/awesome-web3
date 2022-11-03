@@ -46,6 +46,9 @@
 ### web3 as a service
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
+  
+### Web3 Job boards
+  * [MyWeb3Jobs](https://myweb3jobs.com)
 
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
