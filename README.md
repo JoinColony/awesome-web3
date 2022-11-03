@@ -50,5 +50,9 @@
 ### Web3 Job boards
   * [MyWeb3Jobs](https://myweb3jobs.com)
 
+
+### web3 tools
+  * [Ethereum Crypto Utilities](https://webutils.app.greate.eu)
+
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
