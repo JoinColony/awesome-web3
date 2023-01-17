@@ -7,7 +7,6 @@
   * https://github.com/bkrem/awesome-solidity
   * https://github.com/vinsgo/awesome-ethereum
   * https://github.com/toadkicker/awesome-ethereum
-  * https://github.com/void4/awesome-ethereum
 
 ### Web3 libraries
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
