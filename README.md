@@ -43,9 +43,12 @@
   * [Micro frontends](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
   * [IPFS links on CRDTs](https://github.com/ipfs/research-CRDT)
 
-### web3 as a service
+### Web3 as a service
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
+
+### Web3 communities
+  * [Launchcaster](https://www.launchcaster.xyz/)
   
 ### Web3 Job boards
   * [MyWeb3Jobs](https://myweb3jobs.com)
