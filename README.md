@@ -48,6 +48,7 @@
 ### Web3 as a service
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
+  * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
