@@ -7,14 +7,15 @@
   * https://github.com/bkrem/awesome-solidity
   * https://github.com/vinsgo/awesome-ethereum
   * https://github.com/toadkicker/awesome-ethereum
-  * https://github.com/void4/awesome-ethereum
 
 ### Web3 libraries
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
   * [embark-framework](https://github.com/iurimatias/embark-framework)
+  * [UseSIWE](https://github.com/random-bits-studio/use-siwe)
 
 ### IPFS libraries
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
+  * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner)
 
 ### Replicated data types for distributed systems
   * [ipfs-log](https://github.com/haadcode/ipfs-log)
@@ -30,6 +31,7 @@
   * [BigchainDB](https://www.bigchaindb.com)
   * [Bluzelle](https://bluzelle.com/)
   * [Fluence](http://fluence.ai/)
+  * [DB3 Network](https://github.com/dbpunk-labs/db3)
 
 ### Helpful browser APIs (and wrapper libraries)
   * [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
@@ -43,10 +45,13 @@
   * [Micro frontends](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
   * [IPFS links on CRDTs](https://github.com/ipfs/research-CRDT)
 
-### web3 as a service
+### Web3 as a service
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+
+### Web3 communities
+  * [Launchcaster](https://www.launchcaster.xyz/)
   
 ### Web3 Job boards
   * [MyWeb3Jobs](https://myweb3jobs.com)
