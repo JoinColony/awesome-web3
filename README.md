@@ -32,6 +32,7 @@
   * [Bluzelle](https://bluzelle.com/)
   * [Fluence](http://fluence.ai/)
   * [DB3 Network](https://github.com/dbpunk-labs/db3)
+  * [Polybase](https://github.com/polybase/)
 
 ### Helpful browser APIs (and wrapper libraries)
   * [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
