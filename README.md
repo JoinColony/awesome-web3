@@ -51,6 +51,9 @@
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
+### Authentication
+  * [Dynamic](https://dynamic.xyz)
+
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
   
