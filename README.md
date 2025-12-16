@@ -11,6 +11,7 @@
 ### Web3 libraries
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
   * [embark-framework](https://github.com/iurimatias/embark-framework)
+  * [lumen-langchain-kit](https://www.npmjs.com/package/lumen-langchain-kit) - LangChain integration for LUMEN World Computer on Base Mainnet. Enables AI agents to interact with decentralized context bus and autonomous agent kernel.
   * [UseSIWE](https://github.com/random-bits-studio/use-siwe)
 
 ### IPFS libraries
