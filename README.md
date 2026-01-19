@@ -12,6 +12,7 @@
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
   * [embark-framework](https://github.com/iurimatias/embark-framework)
   * [UseSIWE](https://github.com/random-bits-studio/use-siwe)
+  * [HOL Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1, HCS-2, HCS-10, HCS-11)
 
 ### IPFS libraries
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
