@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding for AI agents with on-chain escrow
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
