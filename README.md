@@ -50,6 +50,8 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
