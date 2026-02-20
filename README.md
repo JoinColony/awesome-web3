@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [httpay.xyz](https://httpay.xyz) - x402 micropayment API marketplace (124+ endpoints on Base, HTTP 402 protocol)
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
