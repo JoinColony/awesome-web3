@@ -48,6 +48,7 @@
 
 ### Web3 as a service
   * [Infura](https://infura.io)
+  * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
