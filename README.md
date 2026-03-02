@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Multi-chain non-custodial HD wallets + DeFi data APIs for AI agents. Supports 9 chains, real-time crypto prices for 150+ coins, Hyperliquid futures data. USDC payments on Base.
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
