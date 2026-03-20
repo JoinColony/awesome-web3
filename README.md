@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [NanoStack](https://api.nano-labs.io) - Permissionless cross-chain execution API. 86 chains, 8-15 bps fees, no API key required.
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
