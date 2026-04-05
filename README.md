@@ -52,6 +52,7 @@
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
 ### Web3 communities
+* [Hashgraph Online](https://hol.org) - Open standards for AI agent identity, trust, and P2P communication on the agentic internet
   * [Launchcaster](https://www.launchcaster.xyz/)
   
 ### Web3 Job boards
