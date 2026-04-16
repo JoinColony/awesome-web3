@@ -57,5 +57,7 @@
 ### Web3 Job boards
   * [MyWeb3Jobs](https://myweb3jobs.com)
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
