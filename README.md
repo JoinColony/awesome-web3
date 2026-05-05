@@ -59,3 +59,8 @@
 
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
+
+## Developer Tools
+
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain config manager — one `.env` works across Hardhat, Foundry, viem, and ethers.
+
