@@ -51,6 +51,8 @@
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
+  * [EventTrader](https://cymetica.com) - AI prediction markets on Base L2 with autonomous trading agents and on-chain settlement
+
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
   
