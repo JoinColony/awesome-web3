@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [Block Lottos OpenAPI](https://blocklottos.com/openapi.json) - public Polygon/Base lottery, draw history, jackpot, advertising, and wallet-signed ticket transaction API
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
