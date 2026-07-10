@@ -51,6 +51,9 @@
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
+### Analytics tools
+  * [Formo](https://formo.so/tools) - Free web3 tools for analytics, attribution, and growth: UTM/tracking-plan generators, wallet LTV/ROI/churn calculators, and EVM developer utilities.
+
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
   
