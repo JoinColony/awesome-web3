@@ -52,7 +52,7 @@
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
 ### Analytics
-  * [Formo](https://formo.so/tools) - Analytics and attribution platform for web3.
+  * [Formo](https://formo.so) - Analytics and attribution platform for web3.
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
