@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - free embeddable non-custodial cross-chain swap widget, one script tag
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
