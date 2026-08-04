@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [OpenChainBench](https://openchainbench.com) — Open-source benchmarks for RPC providers and data APIs: latency, reliability, archive depth across 22+ chains. Helps you compare providers in this list.
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
