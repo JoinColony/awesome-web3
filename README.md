@@ -55,6 +55,7 @@
   * [Launchcaster](https://www.launchcaster.xyz/)
   
 ### Web3 Job boards
+  * [ChainJobs](https://chainjobs.io)
   * [MyWeb3Jobs](https://myweb3jobs.com)
 
 ## How to contribute
