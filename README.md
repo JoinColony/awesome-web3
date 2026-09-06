@@ -50,6 +50,7 @@
   * [Infura](https://infura.io)
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
+  * [Pending](https://pending.one) - Zero-wallet EVM transaction status and stuck transaction diagnosis engine for Ethereum, Polygon, and Base
 
 ### Web3 communities
   * [Launchcaster](https://www.launchcaster.xyz/)
