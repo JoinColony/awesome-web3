@@ -41,6 +41,8 @@
   * [Web Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
   * [IndexedDB](https://developer.mozilla.org/de/docs/IndexedDB)
   * [idb - IndexedDB promise wrapper](https://github.com/jakearchibald/idb)
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ### Resource
   * [Micro frontends](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
