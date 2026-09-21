@@ -45,6 +45,7 @@
 ### Resource
   * [Micro frontends](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
   * [IPFS links on CRDTs](https://github.com/ipfs/research-CRDT)
+  * [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) - Curated list of active web3 grant programs and how to apply.
 
 ### Web3 as a service
   * [Infura](https://infura.io)
