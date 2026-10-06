@@ -48,6 +48,7 @@
 
 ### Web3 as a service
   * [Infura](https://infura.io)
+  * [LYFTIUM](https://www.lyftium.com) - Ethereum Mainnet JSON-RPC priced in rpm with fail-closed tip gate
   * [QuikNode](https://quiknode.io)
   * [SimpleHash](https://simplehash.com/) - multi-chain NFT API
 
