@@ -12,6 +12,7 @@
   * [oo7-parity](https://github.com/paritytech/parity/wiki/oo7-Parity-Reference)
   * [embark-framework](https://github.com/iurimatias/embark-framework)
   * [UseSIWE](https://github.com/random-bits-studio/use-siwe)
+* [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### IPFS libraries
   * [ipfs-mini](https://www.npmjs.com/package/ipfs-mini)
